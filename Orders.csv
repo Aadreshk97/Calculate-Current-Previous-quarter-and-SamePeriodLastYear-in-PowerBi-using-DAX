@@ -1,0 +1,385 @@
+Order ID,Order Date,Category,Sales
+1,7/2/2024,FFF,25.00
+2,8/2/2024,Furniture,261.96
+3,9/2/2024,Office Supplies,261.96
+4,10/2/2024,Furniture,261.96
+5,11/2/2024,Category,261.96
+6,12/2/2024,Furniture,261.96
+7,13/2/2024,Office Supplies,261.96
+8,14/2/2024,Category,261.96
+9,15/2/2024,Furniture,261.96
+10,16/2/2024,Furniture,261.96
+11,17/2/2024,Furniture,261.96
+12,18/2/2024,Furniture,261.96
+13,19/2/2024,Office Supplies,261.96
+14,20/2/2024,Office Supplies,261.96
+15,21/2/2024,Office Supplies,68.81
+16,22/2/2024,Office Supplies,2.544
+17,23/2/2024,Office Supplies,665.88
+18,24/2/2024,Office Supplies,55.5
+19,25/2/2024,Office Supplies,8.56
+20,26/2/2024,Technology,300.23
+21,27/2/2024,Office Supplies,22.72
+22,28/2/2024,Office Supplies,19.46
+23,29/2/2024,Office Supplies,60.34
+24,1/3/2024,Furniture,71.372
+25,2/3/2024,Furniture,1044.63
+26,3/3/2024,Office Supplies,11.648
+27,4/3/2024,Technology,90.57
+28,5/3/2024,Furniture,3083.43
+29,6/3/2024,Office Supplies,9.618
+30,7/3/2024,Furniture,124.2
+31,8/3/2024,Office Supplies,3.264
+32,9/3/2024,Office Supplies,86.304
+33,10/3/2024,Office Supplies,6.858
+34,11/3/2024,Office Supplies,15.76
+35,12/3/2024,Office Supplies,29.472
+36,13/3/2024,Technology,29.472
+37,14/3/2024,Furniture,190.92
+38,15/3/2024,Office Supplies,113.328
+39,16/3/2024,Furniture,532.3992
+40,17/3/2024,Furniture,212.058
+41,18/3/2024,Technology,371.168
+42,19/3/2024,Technology,147.168
+43,20/3/2024,Office Supplies,77.88
+44,21/3/2024,Office Supplies,95.616
+45,22/3/2024,Technology,45.98
+46,23/3/2024,Office Supplies,17.46
+47,24/3/2024,Office Supplies,211.96
+48,25/3/2024,Technology,45
+49,26/3/2024,Technology,21.8
+50,27/3/2024,Office Supplies,38.22
+51,28/3/2024,Office Supplies,75.18
+52,29/3/2024,Furniture,6.16
+53,30/3/2024,Furniture,89.99
+54,31/3/2024,Office Supplies,15.26
+55,1/4/2024,Technology,1029.95
+56,2/4/2024,Office Supplies,208.56
+57,3/4/2024,Office Supplies,32.4
+58,4/4/2024,Furniture,319.41
+59,5/4/2024,Office Supplies,14.56
+60,6/4/2024,Technology,30
+61,7/4/2024,Office Supplies,48.48
+62,8/4/2024,Office Supplies,1.68
+63,9/4/2024,Technology,13.98
+64,10/4/2024,Office Supplies,25.824
+65,11/4/2024,Office Supplies,146.73
+66,12/4/2024,Furniture,79.76
+67,13/4/2024,Furniture,213.115
+68,14/4/2024,Office Supplies,1113.024
+69,15/4/2024,Technology,167.968
+70,16/4/2024,Office Supplies,75.88
+71,17/4/2024,Office Supplies,4.616
+72,18/4/2024,Office Supplies,19.05
+73,19/4/2024,Furniture,831.936
+74,20/4/2024,Furniture,97.04
+75,21/4/2024,Office Supplies,72.784
+76,22/4/2024,Office Supplies,1.248
+77,23/4/2024,Furniture,9.708
+78,24/4/2024,Office Supplies,27.24
+79,25/4/2024,Furniture,19.3
+80,26/4/2024,Office Supplies,208.16
+81,27/4/2024,Office Supplies,16.74
+82,28/4/2024,Office Supplies,14.9
+83,29/4/2024,Office Supplies,21.39
+84,30/4/2024,Office Supplies,200.984
+85,1/5/2024,Office Supplies,230.376
+86,2/5/2024,Furniture,301.96
+87,3/5/2024,Technology,19.99
+88,4/5/2024,Office Supplies,6.16
+89,5/5/2024,Office Supplies,158.368
+90,6/5/2024,Office Supplies,20.1
+91,7/5/2024,Technology,73.584
+92,8/5/2024,Office Supplies,6.48
+93,9/5/2024,Office Supplies,12.96
+94,10/5/2024,Furniture,53.34
+95,11/5/2024,Office Supplies,32.96
+96,12/5/2024,Office Supplies,5.682
+97,13/5/2024,Furniture,96.53
+98,14/5/2024,Office Supplies,51.312
+99,15/5/2024,Office Supplies,77.88
+100,16/5/2024,Office Supplies,64.624
+101,17/5/2024,Technology,95.976
+102,18/5/2024,Office Supplies,1.788
+103,19/5/2024,Office Supplies,23.92
+104,20/5/2024,Technology,238.896
+105,21/5/2024,Furniture,102.36
+106,22/5/2024,Office Supplies,36.882
+107,23/5/2024,Technology,74.112
+108,24/5/2024,Technology,27.992
+109,25/5/2024,Office Supplies,3.304
+110,26/5/2024,Technology,339.96
+111,27/5/2024,Furniture,41.96
+112,28/5/2024,Office Supplies,75.96
+113,29/5/2024,Office Supplies,27.24
+114,30/5/2024,Office Supplies,40.096
+115,31/5/2024,Office Supplies,4.72
+116,1/6/2024,Office Supplies,23.976
+117,2/6/2024,Office Supplies,130.464
+118,3/6/2024,Furniture,787.53
+119,4/6/2024,Office Supplies,157.794
+120,5/6/2024,Furniture,47.04
+121,6/6/2024,Office Supplies,30.84
+122,7/6/2024,Office Supplies,226.56
+123,8/6/2024,Office Supplies,115.02
+124,9/6/2024,Technology,68.04
+125,10/6/2024,Furniture,600.558
+126,11/6/2024,Furniture,617.7
+127,12/6/2024,Office Supplies,2.388
+128,13/6/2024,Office Supplies,243.992
+129,14/6/2024,Furniture,81.424
+130,15/6/2024,Furniture,238.56
+131,16/6/2024,Technology,59.97
+132,17/6/2024,Office Supplies,78.304
+133,18/6/2024,Office Supplies,21.456
+134,19/6/2024,Office Supplies,20.04
+135,20/6/2024,Office Supplies,35.44
+136,21/6/2024,Office Supplies,11.52
+137,22/6/2024,Office Supplies,4.02
+138,23/6/2024,Office Supplies,76.176
+139,24/6/2024,Office Supplies,65.88
+140,25/6/2024,Furniture,43.12
+141,26/6/2024,Furniture,82.8
+142,27/6/2024,Office Supplies,8.82
+143,28/6/2024,Office Supplies,10.86
+144,29/6/2024,Office Supplies,143.7
+145,30/6/2024,Office Supplies,839.43
+146,1/7/2024,Office Supplies,671.93
+147,2/7/2024,Furniture,93.888
+148,3/7/2024,Technology,384.45
+149,4/7/2024,Technology,149.97
+150,5/7/2024,Furniture,1951.84
+151,6/7/2024,Office Supplies,171.55
+152,7/7/2024,Office Supplies,157.92
+153,8/7/2024,Technology,203.184
+154,9/7/2024,Office Supplies,58.38
+155,10/7/2024,Office Supplies,105.52
+156,11/7/2024,Office Supplies,80.88
+157,12/7/2024,Office Supplies,6.63
+158,13/7/2024,Furniture,457.568
+159,14/7/2024,Office Supplies,14.62
+160,15/7/2024,Technology,944.93
+161,16/7/2024,Office Supplies,5.98
+162,17/7/2024,Technology,54.384
+163,18/7/2024,Office Supplies,28.4
+164,19/7/2024,Office Supplies,27.68
+165,20/7/2024,Office Supplies,9.936
+166,21/7/2024,Technology,8159.952
+167,22/7/2024,Office Supplies,275.928
+168,23/7/2024,Furniture,1740.06
+169,24/7/2024,Office Supplies,32.064
+170,25/7/2024,Office Supplies,177.98
+171,26/7/2024,Technology,143.976
+172,27/7/2024,Office Supplies,20.94
+173,28/7/2024,Office Supplies,110.96
+174,29/7/2024,Furniture,340.144
+175,30/7/2024,Office Supplies,52.448
+176,31/7/2024,Office Supplies,20.16
+177,1/8/2024,Office Supplies,97.264
+178,2/8/2024,Furniture,396.802
+179,3/8/2024,Office Supplies,15.88
+180,4/8/2024,Office Supplies,3.28
+181,5/8/2024,Office Supplies,24.816
+182,6/8/2024,Technology,408.744
+183,7/8/2024,Technology,503.96
+184,8/8/2024,Technology,149.95
+185,9/8/2024,Technology,29
+186,10/8/2024,Office Supplies,7.16
+187,11/8/2024,Technology,176.8
+188,12/8/2024,Office Supplies,37.224
+189,13/8/2024,Office Supplies,20.016
+190,14/8/2024,Furniture,899.136
+191,15/8/2024,Technology,71.76
+192,16/8/2024,Office Supplies,51.84
+193,17/8/2024,Furniture,626.352
+194,18/8/2024,Office Supplies,19.9
+195,19/8/2024,Office Supplies,14.28
+196,20/8/2024,Office Supplies,7.408
+197,21/8/2024,Office Supplies,6.048
+198,22/8/2024,Office Supplies,46.26
+199,23/8/2024,Office Supplies,2.946
+200,24/8/2024,Office Supplies,16.056
+201,25/8/2024,Office Supplies,21.744
+202,26/8/2024,Furniture,218.75
+203,27/8/2024,Office Supplies,2.6
+204,28/8/2024,Office Supplies,66.284
+205,29/8/2024,Furniture,35.168
+206,30/8/2024,Technology,444.768
+207,31/8/2024,Office Supplies,83.92
+208,1/9/2024,Technology,131.98
+209,2/9/2024,Office Supplies,15.92
+210,3/9/2024,Office Supplies,52.29
+211,4/9/2024,Office Supplies,91.99
+212,5/9/2024,Technology,20.8
+213,6/9/2024,Office Supplies,23.68
+214,7/9/2024,Furniture,452.45
+215,8/9/2024,Technology,62.982
+216,9/9/2024,Technology,1188
+217,10/9/2024,Technology,89.584
+218,11/9/2024,Office Supplies,93.06
+219,12/9/2024,Technology,302.376
+220,13/9/2024,Office Supplies,5.584
+221,14/9/2024,Office Supplies,22.704
+222,15/9/2024,Office Supplies,19.776
+223,16/9/2024,Furniture,72.704
+224,17/9/2024,Technology,479.988
+225,18/9/2024,Office Supplies,27.168
+226,19/9/2024,Office Supplies,2.2
+227,20/9/2024,Furniture,622.45
+228,21/9/2024,Office Supplies,21.98
+229,22/9/2024,Furniture,161.568
+230,23/9/2024,Furniture,389.696
+231,24/9/2024,Office Supplies,18.648
+232,25/9/2024,Furniture,233.86
+233,26/9/2024,Furniture,620.6145
+234,27/9/2024,Office Supplies,5.328
+235,28/9/2024,Furniture,258.072
+236,29/9/2024,Technology,617.976
+237,30/9/2024,Office Supplies,10.56
+238,1/10/2024,Office Supplies,25.92
+239,2/10/2024,Furniture,419.68
+240,3/10/2024,Furniture,11.688
+241,4/10/2024,Technology,31.984
+242,5/10/2024,Furniture,177.225
+243,6/10/2024,Furniture,4.044
+244,7/10/2024,Office Supplies,7.408
+245,8/10/2024,Furniture,2001.86
+246,9/10/2024,Office Supplies,166.72
+247,10/10/2024,Office Supplies,47.88
+248,11/10/2024,Office Supplies,1503.25
+249,12/10/2024,Office Supplies,25.92
+250,13/10/2024,Furniture,321.568
+251,14/10/2024,Office Supplies,7.61
+252,15/10/2024,Technology,3347.37
+253,16/10/2024,Office Supplies,80.58
+254,17/10/2024,Office Supplies,361.92
+255,18/10/2024,Furniture,12.132
+256,19/10/2024,Office Supplies,82.368
+257,20/10/2024,Office Supplies,53.92
+258,21/10/2024,Technology,647.904
+259,22/10/2024,Technology,20.37
+260,23/10/2024,Office Supplies,32.7
+261,24/10/2024,Office Supplies,43.6
+262,25/10/2024,Office Supplies,87.4
+263,26/10/2024,Technology,23.67
+264,27/10/2024,Technology,89.56
+265,28/10/2024,Technology,56.54
+266,29/10/2024,Technology,56.87
+267,30/10/2024,Office Supplies,98.32
+268,31/10/2024,Office Supplies,2345.92
+269,1/11/2024,Office Supplies,1503.25
+270,2/11/2024,Office Supplies,25.92
+271,3/11/2024,Office Supplies,321.568
+272,4/11/2024,Technology,7.61
+273,5/11/2024,Furniture,3347.37
+274,6/11/2024,Office Supplies,80.58
+275,7/11/2024,Office Supplies,361.92
+276,8/11/2024,Office Supplies,12.132
+277,9/11/2024,Office Supplies,82.368
+278,10/11/2024,Office Supplies,53.92
+279,11/11/2024,Office Supplies,647.904
+280,12/11/2024,Office Supplies,20.37
+281,13/11/2024,Office Supplies,32.7
+282,14/11/2024,Technology,43.6
+283,15/11/2024,Furniture,87.4
+284,16/11/2024,Office Supplies,23.67
+285,17/11/2024,Technology,89.56
+286,18/11/2024,Office Supplies,56.54
+287,19/11/2024,Office Supplies,56.87
+288,20/11/2024,Office Supplies,98.32
+289,21/11/2024,Office Supplies,2345.92
+290,22/11/2024,Office Supplies,7.61
+291,23/11/2024,Office Supplies,3347.37
+292,24/11/2024,Technology,80.58
+293,25/11/2024,Furniture,361.92
+294,26/11/2024,Furniture,12.132
+295,27/11/2024,Furniture,82.368
+296,28/11/2024,Furniture,53.92
+297,29/11/2024,Office Supplies,647.904
+298,30/11/2024,Office Supplies,20.37
+299,1/12/2024,Office Supplies,32.7
+300,2/12/2024,Office Supplies,43.6
+301,3/12/2024,Office Supplies,87.4
+302,4/12/2024,Furniture,23.67
+303,5/12/2024,Office Supplies,89.56
+304,6/12/2024,Furniture,56.54
+305,7/12/2024,Furniture,56.87
+306,8/12/2024,Office Supplies,98.32
+307,9/12/2024,Office Supplies,2345.92
+308,10/12/2024,Furniture,379.5564709
+309,11/12/2024,Furniture,380.3002486
+310,12/12/2024,Office Supplies,381.0440263
+311,13/12/2024,Furniture,381.7878039
+312,14/12/2024,Office Supplies,382.5315816
+313,15/12/2024,Furniture,383.2753593
+314,16/12/2024,Office Supplies,384.019137
+315,17/12/2024,Technology,384.7629146
+316,18/12/2024,Office Supplies,385.5066923
+317,19/12/2024,Office Supplies,386.25047
+318,20/12/2024,Furniture,386.9942477
+319,21/12/2024,Technology,387.7380253
+320,22/12/2024,Office Supplies,388.481803
+321,23/12/2024,Office Supplies,389.2255807
+322,24/12/2024,Office Supplies,389.9693584
+323,25/12/2024,Office Supplies,390.713136
+324,26/12/2024,Office Supplies,391.4569137
+325,27/12/2024,Office Supplies,392.2006914
+326,28/12/2024,Office Supplies,392.9444691
+327,29/12/2024,Technology,393.6882467
+328,30/12/2024,Office Supplies,394.4320244
+329,31/12/2024,Office Supplies,395.1758021
+330,1/1/2025,Office Supplies,395.9195797
+331,2/1/2025,Furniture,396.6633574
+332,3/1/2025,Furniture,397.4071351
+333,4/1/2025,Office Supplies,398.1509128
+334,5/1/2025,Technology,398.8946904
+335,6/1/2025,Furniture,399.6384681
+336,7/1/2025,Office Supplies,400.3822458
+337,8/1/2025,Furniture,401.1260235
+338,9/1/2025,Office Supplies,401.8698011
+339,10/1/2025,Office Supplies,402.6135788
+340,11/1/2025,Office Supplies,403.3573565
+341,12/1/2025,Office Supplies,404.1011342
+342,13/1/2025,Office Supplies,404.8449118
+343,14/1/2025,Technology,405.5886895
+344,15/1/2025,Furniture,406.3324672
+345,16/1/2025,Office Supplies,407.0762449
+346,17/1/2025,Furniture,407.8200225
+347,18/1/2025,Furniture,408.5638002
+348,19/1/2025,Technology,409.3075779
+349,20/1/2025,Technology,410.0513556
+350,21/1/2025,Office Supplies,410.7951332
+351,22/1/2025,Office Supplies,411.5389109
+352,23/1/2025,Technology,412.2826886
+353,24/1/2025,Office Supplies,413.0264663
+354,25/1/2025,Office Supplies,413.7702439
+355,26/1/2025,Technology,414.5140216
+356,27/1/2025,Technology,415.2577993
+357,28/1/2025,Office Supplies,416.0015769
+358,29/1/2025,Office Supplies,416.7453546
+359,30/1/2025,Furniture,417.4891323
+360,31/1/2025,Furniture,418.23291
+361,1/2/2025,Office Supplies,418.9766876
+362,2/2/2025,Technology,419.7204653
+363,3/2/2025,Office Supplies,420.464243
+364,4/2/2025,Office Supplies,421.2080207
+365,5/2/2025,Furniture,421.9517983
+366,6/2/2025,Office Supplies,422.695576
+367,7/2/2025,Technology,423.4393537
+368,8/2/2025,Office Supplies,424.1831314
+369,9/2/2025,Office Supplies,424.926909
+370,10/2/2025,Technology,425.6706867
+371,11/2/2025,Office Supplies,426.4144644
+372,12/2/2025,Office Supplies,427.1582421
+373,13/2/2025,Furniture,427.9020197
+374,14/2/2025,Furniture,428.6457974
+375,15/2/2025,Office Supplies,429.3895751
+376,16/2/2025,Technology,430.1333528
+377,17/2/2025,Office Supplies,430.8771304
+378,18/2/2025,Office Supplies,431.6209081
+379,19/2/2025,Office Supplies,432.3646858
+380,20/2/2025,Furniture,433.1084635
+381,21/2/2025,Furniture,433.8522411
+382,22/2/2025,Office Supplies,434.5960188
+383,23/2/2025,Office Supplies,435.3397965
+384,24/2/2025,Furniture,436.0835741
